@@ -1,6 +1,10 @@
 # Multi-Cycle_Processor
 CE 4304 Computer Architecture Final Project
 
+Developed on EDA Playground
+
+Link: https://edaplayground.com/x/qJGe
+
 ## Specifications
 * Target Market: Embedded Systems Computer
 * Memory Organization: Harvard architecture
