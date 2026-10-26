@@ -19,3 +19,17 @@ Link: https://edaplayground.com/x/qJGe
 * Size of Immediate Field: 8 bits
 * Maximum number of Instructions: 64
 * Memory Addressing Endianess : Little
+* Positive-edge triggered clock
+
+## ALU Operations
+* Add
+* Subtract
+* Shift left logical
+* Shift right logical
+* Two's complement
+* One's complement
+* Load
+* Store
+* Branch equal
+* Jump
+* Add immediate
